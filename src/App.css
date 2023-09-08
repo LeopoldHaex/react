@@ -24,6 +24,15 @@
   color: white;
 }
 
+.App form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +45,4 @@
     transform: rotate(360deg);
   }
 }
+
