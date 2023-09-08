@@ -10,6 +10,14 @@ function App() {
             Name:
             <input type="text" name="name" />
           </label>
+          <label>
+            Field 1:
+            <input type="text" name="field1" />
+          </label>
+          <label>
+            Field 2:
+            <input type="text" name="field2" />
+          </label>
           <input type="submit" value="Submit" />
         </form>
       </header>
